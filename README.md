@@ -1,5 +1,5 @@
 # LGMVIP-DataScience
-It consists of Data Science tasks of LetsGrowMore Virtual Internship Programme.
+It consist of Data Science tasks of LetsGrowMore Virtual Internship Programme.
 
 Task-1: Iris Flowers Classification ML project.
 

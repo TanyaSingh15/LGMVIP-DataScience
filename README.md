@@ -1,5 +1,5 @@
 # LGMVIP-DataScience
-This repository consist of Data Science tasks of LetsGrowMore Virtual Internship Program.
+This repository consist of Data Science tasks of the LetsGrowMore Virtual Internship Program.
 
 Task-1: Iris Flowers Classification ML project.
 
